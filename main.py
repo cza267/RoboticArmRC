@@ -91,6 +91,4 @@ textBox0=tk.Text(window, height=1, width=3, bd=2)
 textBox0.place(x=120, y=250)
 textBox0.insert(tk.INSERT,'0')
 
-
-
 window.mainloop()
